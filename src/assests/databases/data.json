@@ -1,0 +1,483 @@
+{
+  "user": [
+    {
+      "id": "344e",
+      "fname": "shanu",
+      "username": "shanu ",
+      "email": "shanu28@gmail.com",
+      "address": "tara nagar",
+      "city": "sonipat",
+      "state": "haryana",
+      "pin": "131001",
+      "phone": "9138733536",
+      "password": "Shanu@1234",
+      "cpassword": "Shanu@1234",
+      "pic": "side1.png",
+      "role": "User"
+    },
+    {
+      "id": "3f4d",
+      "fname": "shanu Batra",
+      "username": "shanubatra128",
+      "email": "shanubatra128@gmail.com",
+      "address": "tara nagar",
+      "city": "sonipat",
+      "state": "haryana",
+      "pin": "131001",
+      "phone": "9138363536",
+      "password": "Shanu@12345",
+      "cpassword": "Shanu@12345",
+      "pic": "side2.png",
+      "role": "Admin"
+    },
+    {
+      "id": "9534",
+      "fname": "cnklclkk",
+      "username": "chahek",
+      "email": "shanubatra1128@gmail.com",
+      "address": "tara nagar",
+      "city": "Abtenau,Austria",
+      "state": "haryana",
+      "pin": "131002",
+      "phone": "9896490053",
+      "password": "Chahek222",
+      "cpassword": "Chahek222",
+      "pic": "side1.png",
+      "role": "User"
+    }
+  ],
+  "category": [
+    {
+      "id": "4e2b",
+      "name": "Travel Blogs"
+    },
+    {
+      "id": "ee11",
+      "name": "Personal Blogs"
+    },
+    {
+      "id": "6c55",
+      "name": "Professional Blogs"
+    },
+    {
+      "id": "fabe",
+      "name": "Educational Blogs"
+    },
+    {
+      "id": "c87c",
+      "name": "News or Current events Blogs"
+    },
+    {
+      "id": "76dc",
+      "name": "Review Blogs"
+    },
+    {
+      "id": "0637",
+      "name": "Photo Blogs"
+    },
+    {
+      "id": "f7ef",
+      "name": "Corporate Blogs"
+    },
+    {
+      "id": "8027",
+      "name": "Singular-focus Blog"
+    },
+    {
+      "id": "d528",
+      "name": "Blogs"
+    }
+  ],
+  "blog": [
+    {
+      "id": "2b48",
+      "topic": "oifcoiasiodnizs",
+      "category": "Travel Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea` accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste.0 Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side5.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "2b4e",
+      "topic": "oifcoiasiodnizs",
+      "category": "Personal Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.      ",
+      "pic": "side5.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "78ac",
+      "topic": "oifcoiasiodnizs",
+      "category": "Educational Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.      ",
+      "pic": "side2.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "0plo",
+      "topic": "oifcoiasiodnizs",
+      "category": "Professional Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side2.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "344e"
+    },
+    {
+      "id": "uu89",
+      "topic": "oifcoiasiodnizs",
+      "category": "Educational Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side4.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "o0p1",
+      "topic": "oifcoiasiodnizs",
+      "category": "News or Current events Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea` accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste.0 Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side5.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "q74e",
+      "topic": "oifcoiasiodnizs",
+      "category": "News or Current events Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.      ",
+      "pic": "side5.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "23lq",
+      "topic": "oifcoiasiodnizs",
+      "category": "Personal Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.      ",
+      "pic": "side2.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "62bf",
+      "topic": "oifcoiasiodnizs",
+      "category": "News or Current events Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side2.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "344e"
+    },
+    {
+      "id": "23ff",
+      "topic": "oifcoiasiodnizs",
+      "category": "Educational Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side4.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "2l08",
+      "topic": "oifcoiasiodnizs",
+      "category": "Travel Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea` accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste.0 Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side5.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "27as",
+      "topic": "oifcoiasiodnizs",
+      "category": "Travel Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.      ",
+      "pic": "side5.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "27wa",
+      "topic": "oifcoiasiodnizs",
+      "category": "Personal Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.      ",
+      "pic": "side2.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "2gf8",
+      "topic": "oifcoiasiodnizs",
+      "category": "News or Current events Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side2.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "344e"
+    },
+    {
+      "id": "2658",
+      "topic": "oifcoiasiodnizs",
+      "category": "Educational Blogs",
+      "name": "shanu Batras",
+      "phone": "9138363536",
+      "desg": "obfdossiv",
+      "link1": "ilviibnil.cpom",
+      "link2": "fofdioiojwdg",
+      "bio": "fofdioiojwdg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side4.png",
+      "date": "4/17/2024",
+      "time": "5:14:10 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "05a1",
+      "topic": "kjasdiosuivbOIGYIQBU",
+      "category": "Professional Blogs",
+      "name": "shanu Batra",
+      "phone": "9138363536",
+      "desg": "student",
+      "link1": "",
+      "link2": "",
+      "bio": "kndbisjbpwdjqcbpi",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side5.png",
+      "date": "5/10/2024",
+      "time": "6:59:33 PM",
+      "userid": "3f4d"
+    },
+    {
+      "id": "05af",
+      "topic": "About C.A.",
+      "category": "Educational Blogs",
+      "name": "Chahek",
+      "phone": "9896490053",
+      "desg": "student",
+      "link1": "",
+      "link2": "",
+      "bio": "i am student\njinf",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi optio, veniam totam dolor ratione labore atque quos aperiam, facilis voluptatem corrupti iure ad sapiente dignissimos quam similique? Perspiciatis aperiam, nulla nesciunt quaerat ducimus consequuntur eveniet earum error doloremque impedit placeat officia dolorum praesentium aspernatur voluptatibus officiis dicta, iusto facere beatae? Velit atque, eveniet incidunt fuga iure, est natus ab sequi cum labore ea, accusamus architecto repudiandae. Officia reprehenderit recusandae aperiam, voluptates, illum ipsum corporis necessitatibus provident veniam vitae illo! Exercitationem, voluptates sit. Laborum et, perspiciatis voluptate delectus, nemo explicabo possimus dolor nisi quod quibusdam cumque, autem beatae sequi! Eaque voluptates laboriosam natus autem nam harum in aliquid, eum labore deleniti quae dolores repudiandae expedita similique adipisci assumenda eius? Quo eveniet molestiae dolorum cumque dolores labore perferendis recusandae cupiditate, dolore velit, distinctio ad omnis qui repellendus nihil. Consequuntur pariatur, numquam unde, iusto eum odio asperiores magni minima at saepe eaque illum alias in, molestiae quaerat velit voluptatem ea mollitia. Doloribus voluptatibus sequi saepe impedit quas perferendis exercitationem quos, aliquam illo expedita, veritatis accusamus vitae maiores nesciunt neque eius placeat atque tempora rerum libero iste. Numquam tempora perferendis atque natus, incidunt at. Fugit corporis magni delectus natus ut libero ea in distinctio.",
+      "pic": "side5.png",
+      "date": "5/17/2024",
+      "time": "9:59:33 PM",
+      "userid": "9534"
+    },
+    {
+      "id": "220e",
+      "topic": "hniqy",
+      "category": "Review Blogs",
+      "name": "chahek",
+      "phone": "9896490053",
+      "desg": "studenr",
+      "link1": "",
+      "link2": "",
+      "bio": "i a writing this for everyone",
+      "content": "this is a big day for me. Today i achive a fabulous git from someone stranger.\n",
+      "pic": "side1.png",
+      "date": "5/18/2024",
+      "time": "1:49:10 PM",
+      "userid": "9534"
+    }
+  ],
+  "contactus": [
+    {
+      "id": "07d1",
+      "name": "shanu Batra",
+      "email": "shanubatra128@gmail.com",
+      "message": "MHVUISOIODSHOCPIWJCINOIWSVUU",
+      "desg": "KNF",
+      "date": "4/21/2024"
+    },
+    {
+      "id": "7d9c",
+      "name": "shanu Batra",
+      "email": "shanubatra128@gmail.com",
+      "message": "shnuah sahun9bixcpzxouhcsopsn gh oinyn zdgouj0wkij9vjihnn oijv ofjoksskblj p[ owkj ",
+      "desg": "student",
+      "date": "4/21/2024"
+    },
+    {
+      "id": "c998",
+      "name": "shanu Batra",
+      "email": "batrasha9@gmail.com",
+      "message": "sdvwwew",
+      "desg": "obfdossiv",
+      "date": "4/21/2024"
+    }
+  ],
+  "newsletters": [
+    {
+      "id": "ae7c",
+      "email": "chahek21@gmail.com",
+      "date": "Mon Apr 22 2024"
+    },
+    {
+      "id": "c45c",
+      "email": "shanubatra128@gmail.com",
+      "date": "Mon Apr 22 2024"
+    }
+  ],
+  "Testimonials": [
+    {
+      "id": "5a6f",
+      "name": "shanu",
+      "pic1": "side1.png",
+      "profession": "student",
+      "message": "lopiancoqnsopcabos",
+      "star": 2
+    },
+    {
+      "id": "cfcd",
+      "name": "shanu Batra",
+      "pic1": "side2.png",
+      "star": "5",
+      "profession": "student",
+      "message": ",kbsvbosjcoancjkasbscdpjcnabicjoiv"
+    },
+    {
+      "id": "6512",
+      "name": "shanu",
+      "pic1": "side1.png",
+      "star": "4",
+      "profession": "Teacher",
+      "message": "THIS IS A GREAT BLOGING WEBSITE"
+    }
+  ],
+  "favourite": [
+    {
+      "id": "231a",
+      "blogid": "05a1",
+      "userid": "3f4d",
+      "category": "Professional Blogs",
+      "desg": "student",
+      "name": "shanu Batra",
+      "bio": "kndbisjbpwdjqcbpi",
+      "phone": "9138363536",
+      "topic": "kjasdiosuivbOIGYIQBU",
+      "pic": "side5.png"
+    },
+    {
+      "id": "aa50",
+      "blogid": "2gf8",
+      "userid": "3f4d",
+      "category": "News or Current events Blogs",
+      "desg": "obfdossiv",
+      "name": "shanu Batras",
+      "bio": "fofdioiojwdg",
+      "phone": "9138363536",
+      "topic": "oifcoiasiodnizs",
+      "pic": "side2.png"
+    },
+    {
+      "id": "0345",
+      "blogid": "27wa",
+      "userid": "3f4d",
+      "category": "Personal Blogs",
+      "desg": "obfdossiv",
+      "name": "shanu Batras",
+      "bio": "fofdioiojwdg",
+      "phone": "9138363536",
+      "topic": "oifcoiasiodnizs",
+      "pic": "side2.png"
+    }
+  ]
+}
